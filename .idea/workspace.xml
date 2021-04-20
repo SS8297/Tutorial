@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34816da-8025-41cf-bd32-c5c5ba500fae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Michaaaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618928846917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TEST FIL">
+      <created>1618929680656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618929680656</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -62,10 +68,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="TEST FIL" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="25" key="CommitChangelistDialog2" timestamp="1618928846705">
+    <state x="332" y="25" key="CommitChangelistDialog2" timestamp="1618929680385">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1618928846705" />
+    <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1618929680385" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1618928876093">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
